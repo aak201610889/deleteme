@@ -17,7 +17,8 @@ const startServer = async () => {
       'http://localhost:3000',
       'http://localhost:3001',
       'http://localhost:5009',
-      'http://192.168.1.200:5009'
+      'http://192.168.1.200:5009',
+     'https://resturantv3-2025.onrender.com'
     ];
 
 

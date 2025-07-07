@@ -1,0 +1,41 @@
+// cryptoUtils.js
+const CryptoJS = require("crypto-js");
+
+const isValidObjectId = (id) => {
+  return typeof id === "string" && id.length === 24;
+};
+
+const decryptString = (encryptedStr) => {
+
+  try {
+    if (!encryptedStr || typeof encryptedStr !== "string") {
+      throw new Error("Invalid encrypted string.");
+    }
+    if (!process.env.REACT_APP_Key_Secret2A) {
+
+
+
+      throw new Error("Decryption key is not defined.");
+    }
+
+    const bytes = CryptoJS.AES.decrypt(
+      encryptedStr,
+      process.env.REACT_APP_Key_Secret2A
+    );
+    const decryptedString = bytes.toString(CryptoJS.enc.Utf8);
+
+    if (!decryptedString) {
+      throw new Error("Decryption returned an empty result.");
+    }
+
+    return parseInt(decryptedString, 10);
+  } catch (error) {
+    console.error("Error decrypting string:", error.message);
+    return null;
+  }
+};
+
+module.exports = {
+  isValidObjectId,
+  decryptString
+};

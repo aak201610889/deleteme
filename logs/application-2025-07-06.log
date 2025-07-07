@@ -1,0 +1,1145 @@
+2025-07-06 03:37:48 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 03:48:07 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 03:48:07 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 03:48:07 [INFO]: Products fetched successfully {}
+2025-07-06 03:48:07 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m FDoSNhhTJH0onHs1AAAB 
+2025-07-06 03:51:13 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m ihl3cyHBxSVPXNVLAAAD 
+2025-07-06 03:51:13 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 03:51:13 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 03:51:13 [INFO]: Products fetched successfully {}
+2025-07-06 03:53:58 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 03:53:58 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 03:53:58 [INFO]: Products fetched successfully {}
+2025-07-06 03:54:18 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m h7AdSf2xDyVVZ0udAAAF 
+2025-07-06 03:55:03 [INFO]: Incoming request: POST /user 
+2025-07-06 03:55:03 [INFO]: User creation attempt {"username":"asddd","phoneNumber":"0938889107"}
+2025-07-06 03:55:03 [WARN]: Table number is not a valid number {}
+2025-07-06 04:00:20 [INFO]: Incoming request: POST /user 
+2025-07-06 04:00:20 [INFO]: User creation attempt {"username":"hjjhhj","phoneNumber":"0938889107"}
+2025-07-06 04:00:20 [WARN]: Table number is not a valid number {}
+2025-07-06 04:04:28 [INFO]: Incoming request: POST /user 
+2025-07-06 04:04:28 [INFO]: User creation attempt {"username":"hjjhhj","phoneNumber":"0938889107"}
+2025-07-06 04:04:28 [WARN]: Table number is not a valid number {}
+2025-07-06 04:05:01 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m OQ3G5twc0OEuVYiMAAAH 
+2025-07-06 04:05:32 [INFO]: Incoming request: POST /user 
+2025-07-06 04:05:32 [INFO]: User creation attempt {"username":"fff","tableNumber":"test","phoneNumber":"0938889103"}
+2025-07-06 04:05:32 [WARN]: Table number is not a valid number {"tableNumber":"test"}
+2025-07-06 04:07:17 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:07:17 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m lnbOt7POGUmwE8xRAAAB 
+2025-07-06 04:07:22 [INFO]: Incoming request: POST /user 
+2025-07-06 04:07:22 [INFO]: User creation attempt {"username":"fff","tableNumber":"test","phoneNumber":"0938889103"}
+2025-07-06 04:07:22 [ERROR]: User creation failed {"error":"رقم الطاولة يجب أن يكون رقماً صحيحاً موجباً"}
+2025-07-06 04:07:46 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:07:46 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m nQXuCxBsrsUCe2ewAAAB 
+2025-07-06 04:07:47 [INFO]: Incoming request: POST /user 
+2025-07-06 04:07:47 [INFO]: User creation attempt {"username":"fff","tableNumber":"test","phoneNumber":"0938889103"}
+2025-07-06 04:07:47 [ERROR]: User creation failed {"error":"رقم الطاولة يجب أن يكون رقماً صحيحاً موجباً"}
+2025-07-06 04:08:20 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:08:20 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m y6zfue7vn4RtYejeAAAB 
+2025-07-06 04:08:24 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:08:25 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m KfJnWnDL9a6BjqO6AAAB 
+2025-07-06 04:08:32 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:08:33 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 6ZHSTma0toplm3NrAAAB 
+2025-07-06 04:08:35 [INFO]: Incoming request: POST /user 
+2025-07-06 04:08:35 [INFO]: User creation attempt {"username":"fff","tableNumber":"test","phoneNumber":"0938889103"}
+2025-07-06 04:08:35 [ERROR]: User creation failed {"error":"رقم الطاولة يجب أن يكون رقماً صحيحاً موجباً"}
+2025-07-06 04:10:20 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:10:20 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m sU6HEs8P7NIYcRRgAAAB 
+2025-07-06 04:10:24 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:10:24 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m GkpnLOAlWzpW-SnHAAAB 
+2025-07-06 04:10:27 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:10:27 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 0-RtHfsfd5eYelGQAAAB 
+2025-07-06 04:10:30 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:10:30 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 2JwhQaJjL4fs15kOAAAB 
+2025-07-06 04:10:41 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:10:41 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 8yBXKRHN4yrutoPqAAAB 
+2025-07-06 04:11:21 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:11:24 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m LFUrN00VMDSojdfcAAAB 
+2025-07-06 04:11:27 [INFO]: Incoming request: POST /user 
+2025-07-06 04:11:27 [INFO]: User creation attempt {"username":"fff","tableNumber":"test","phoneNumber":"0938889103"}
+2025-07-06 04:11:27 [ERROR]: User creation failed {"error":"parsedTableNumber is not defined"}
+2025-07-06 04:11:50 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:11:50 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m zXl7iXYTrXbRvrmNAAAB 
+2025-07-06 04:11:53 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:11:54 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m PEeCLktjsXn7TnkgAAAB 
+2025-07-06 04:12:05 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:12:05 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m U8WX0C71gN0qG-vaAAAB 
+2025-07-06 04:12:08 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:12:08 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m Q4TDFLle95JV6a7AAAAB 
+2025-07-06 04:12:11 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:12:11 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m nr1Y7-l0Use3IqDzAAAB 
+2025-07-06 04:12:36 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:12:36 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m VYAUBr3jUU_LSQJ6AAAB 
+2025-07-06 04:12:38 [INFO]: Incoming request: POST /user 
+2025-07-06 04:12:38 [INFO]: User creation attempt {"username":"fff","tableNumber":"test","phoneNumber":"0938889103"}
+2025-07-06 04:12:38 [INFO]: User created successfully {"username":"fff"}
+2025-07-06 04:12:38 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:12:38 [WARN]: No token provided. 
+2025-07-06 04:12:38 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:12:38 [WARN]: No token provided. 
+2025-07-06 04:12:38 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:12:38 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:12:38 [INFO]: Products fetched successfully {}
+2025-07-06 04:12:40 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m pG3zflInOdNcwbR_AAAD 
+2025-07-06 04:12:40 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:12:40 [WARN]: No token provided. 
+2025-07-06 04:12:40 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:12:40 [WARN]: No token provided. 
+2025-07-06 04:12:40 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:12:40 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:12:40 [INFO]: Products fetched successfully {}
+2025-07-06 04:13:16 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:13:16 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m vrCsA3DfoOV5mNGLAAAB 
+2025-07-06 04:16:20 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m pNxj8BTFF-47UKQ1AAAD 
+2025-07-06 04:16:33 [INFO]: Incoming request: POST /user 
+2025-07-06 04:16:33 [INFO]: User creation attempt {"username":"yyyy","tableNumber":"test","phoneNumber":"0938889103"}
+2025-07-06 04:16:33 [INFO]: User created successfully {"username":"yyyy"}
+2025-07-06 04:16:34 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:16:34 [WARN]: No token provided. 
+2025-07-06 04:16:34 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:16:34 [WARN]: No token provided. 
+2025-07-06 04:16:35 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 2AXxntaNJb626RVBAAAF 
+2025-07-06 04:16:35 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:16:35 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:16:35 [INFO]: Products fetched successfully {}
+2025-07-06 04:19:56 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:19:56 [WARN]: No token provided. 
+2025-07-06 04:19:56 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:19:56 [WARN]: No token provided. 
+2025-07-06 04:19:56 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:19:56 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:19:56 [INFO]: Products fetched successfully {}
+2025-07-06 04:20:01 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m Yl_1x5h4vRwVjSriAAAH 
+2025-07-06 04:20:46 [INFO]: Incoming request: POST /user 
+2025-07-06 04:20:46 [INFO]: User creation attempt {"username":"fdd","phoneNumber":"0938889103"}
+2025-07-06 04:20:46 [WARN]: Table number is not a valid number {}
+2025-07-06 04:21:13 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m j8Gwhnvbi04jw0gfAAAJ 
+2025-07-06 04:21:30 [INFO]: Incoming request: POST /user 
+2025-07-06 04:21:30 [INFO]: User creation attempt {"username":"dffdfd","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 04:21:30 [INFO]: User created successfully {"username":"dffdfd"}
+2025-07-06 04:21:32 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:21:32 [WARN]: No token provided. 
+2025-07-06 04:21:32 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:21:32 [WARN]: No token provided. 
+2025-07-06 04:21:40 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:21:40 [WARN]: No token provided. 
+2025-07-06 04:21:40 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:21:40 [WARN]: No token provided. 
+2025-07-06 04:21:42 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:21:42 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:21:42 [INFO]: Products fetched successfully {}
+2025-07-06 04:21:42 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 1AhIelRrziN_BZBmAAAL 
+2025-07-06 04:23:05 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:23:05 [WARN]: No token provided. 
+2025-07-06 04:23:05 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:23:05 [WARN]: No token provided. 
+2025-07-06 04:23:07 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:23:07 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:23:07 [INFO]: Products fetched successfully {}
+2025-07-06 04:23:11 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:23:11 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:23:11 [INFO]: Products fetched successfully {}
+2025-07-06 04:23:14 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m X51vyt24lFoT3GmfAAAP 
+2025-07-06 04:23:23 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m D8OhSSlR_EJJUAMDAAAR 
+2025-07-06 04:23:30 [INFO]: Incoming request: POST /user 
+2025-07-06 04:23:30 [INFO]: User creation attempt {"username":"eewewew","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 04:23:30 [INFO]: User created successfully {"username":"eewewew"}
+2025-07-06 04:23:32 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:23:32 [WARN]: No token provided. 
+2025-07-06 04:23:32 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:23:32 [WARN]: No token provided. 
+2025-07-06 04:23:34 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:23:34 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:23:34 [INFO]: Products fetched successfully {}
+2025-07-06 04:23:39 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:23:39 [WARN]: No token provided. 
+2025-07-06 04:23:39 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:23:39 [WARN]: No token provided. 
+2025-07-06 04:23:41 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:23:41 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:23:41 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m wj4aWLQdvJvxKK7RAAAT 
+2025-07-06 04:23:41 [INFO]: Products fetched successfully {}
+2025-07-06 04:27:19 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:27:23 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:27:54 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:27:57 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m awwDSMjrOtN8PF8BAAAB 
+2025-07-06 04:28:06 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m ukOFOY6tUTwohetbAAAD 
+2025-07-06 04:28:31 [INFO]: Incoming request: POST /user 
+2025-07-06 04:28:31 [INFO]: User creation attempt {"username":"erre","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 04:28:32 [INFO]: User created successfully {"username":"erre"}
+2025-07-06 04:28:33 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m RMGENB6TMlyjtSMtAAAF 
+2025-07-06 04:28:33 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:28:33 [WARN]: No token provided. 
+2025-07-06 04:28:33 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:28:33 [WARN]: No token provided. 
+2025-07-06 04:28:33 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:28:33 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:28:33 [INFO]: Products fetched successfully {}
+2025-07-06 04:32:34 [INFO]: Incoming request: POST /user 
+2025-07-06 04:32:34 [INFO]: User creation attempt {"username":"aaaaa","tableNumber":"test","phoneNumber":"0986666108"}
+2025-07-06 04:32:34 [INFO]: User created successfully {"username":"aaaaa"}
+2025-07-06 04:34:09 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m Wqy_-T0Rkm66EVRRAAAH 
+2025-07-06 04:34:30 [INFO]: Incoming request: POST /user 
+2025-07-06 04:34:30 [INFO]: User creation attempt {"username":"wewew","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 04:34:30 [INFO]: User created successfully {"username":"wewew"}
+2025-07-06 04:34:30 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:34:30 [WARN]: No token provided. 
+2025-07-06 04:34:30 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:34:30 [WARN]: No token provided. 
+2025-07-06 04:34:30 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:34:30 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:34:30 [INFO]: Products fetched successfully {}
+2025-07-06 04:34:32 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:34:32 [WARN]: No token provided. 
+2025-07-06 04:34:32 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:34:32 [WARN]: No token provided. 
+2025-07-06 04:34:32 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m V3Vxt0qtT1BKtwJcAAAJ 
+2025-07-06 04:34:32 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:34:32 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:34:32 [INFO]: Products fetched successfully {}
+2025-07-06 04:36:06 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:36:06 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 0LGYedGmQbeMIf35AAAB 
+2025-07-06 04:36:11 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:36:11 [WARN]: No token provided. 
+2025-07-06 04:36:11 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:36:11 [WARN]: No token provided. 
+2025-07-06 04:36:11 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:36:11 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:36:11 [INFO]: Products fetched successfully {}
+2025-07-06 04:36:13 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:36:13 [WARN]: No token provided. 
+2025-07-06 04:36:13 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:36:13 [WARN]: No token provided. 
+2025-07-06 04:36:13 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m Hs7e5UWJP1VZlCuOAAAD 
+2025-07-06 04:36:13 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:36:13 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:36:13 [INFO]: Products fetched successfully {}
+2025-07-06 04:36:16 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m rdwBNkR_ndpPdW56AAAF 
+2025-07-06 04:36:19 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m PxsPNrGMrM2WKPg7AAAH 
+2025-07-06 04:36:32 [INFO]: Incoming request: POST /user 
+2025-07-06 04:36:32 [INFO]: User creation attempt {"username":"wewew","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 04:36:32 [INFO]: User created successfully {"username":"wewew"}
+2025-07-06 04:36:32 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:36:32 [WARN]: No token provided. 
+2025-07-06 04:36:32 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:36:32 [WARN]: No token provided. 
+2025-07-06 04:36:33 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:36:33 [WARN]: No token provided. 
+2025-07-06 04:36:33 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:36:33 [WARN]: No token provided. 
+2025-07-06 04:36:33 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m QVFDrhb8vAgHGrwvAAAJ 
+2025-07-06 04:36:33 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:36:33 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:36:33 [INFO]: Products fetched successfully {}
+2025-07-06 04:38:00 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:38:01 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m b7b9C3rXN38Rh9xtAAAB 
+2025-07-06 04:39:05 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:39:05 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:39:05 [INFO]: Products fetched successfully {}
+2025-07-06 04:39:05 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m m7pvb_2h8tsrAohVAAAD 
+2025-07-06 04:39:11 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m z7baJfc5R4xU0GpLAAAF 
+2025-07-06 04:39:17 [INFO]: Incoming request: POST /user 
+2025-07-06 04:39:17 [INFO]: User creation attempt {"username":"wewew","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 04:39:17 [INFO]: User created successfully {"username":"wewew"}
+2025-07-06 04:39:17 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:39:17 [WARN]: No token provided. 
+2025-07-06 04:39:17 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:39:17 [WARN]: No token provided. 
+2025-07-06 04:39:19 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m xsxroKh0RtNQE5X0AAAH 
+2025-07-06 04:39:19 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:39:19 [WARN]: No token provided. 
+2025-07-06 04:39:19 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:39:19 [WARN]: No token provided. 
+2025-07-06 04:39:19 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:39:19 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:39:19 [INFO]: Products fetched successfully {}
+2025-07-06 04:40:27 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:40:27 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m m_UOiVyMiv_Y9o0HAAAB 
+2025-07-06 04:40:56 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:40:57 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m JLk8I_UFgY0OgspCAAAB 
+2025-07-06 04:41:39 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:41:39 [WARN]: No token provided. 
+2025-07-06 04:41:39 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:41:39 [WARN]: No token provided. 
+2025-07-06 04:41:39 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:41:39 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:41:39 [INFO]: Products fetched successfully {}
+2025-07-06 04:41:41 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m NFE5m2QBy81NgiZSAAAD 
+2025-07-06 04:41:41 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:41:42 [WARN]: No token provided. 
+2025-07-06 04:41:42 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:41:42 [WARN]: No token provided. 
+2025-07-06 04:41:42 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:41:42 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:41:42 [INFO]: Products fetched successfully {}
+2025-07-06 04:41:44 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:41:44 [WARN]: No token provided. 
+2025-07-06 04:41:44 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 58M0FoP1npbMeEPxAAAF 
+2025-07-06 04:41:44 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:41:45 [WARN]: No token provided. 
+2025-07-06 04:41:45 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 04:41:45 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 04:41:45 [INFO]: Products fetched successfully {}
+2025-07-06 04:41:48 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m dNK_FEm4A-RiRZQDAAAI 
+2025-07-06 04:41:51 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m V-rUtyq6ik3cnJtjAAAK 
+2025-07-06 04:41:54 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m NvftBCvgW0Zw4FZ4AAAM 
+2025-07-06 04:42:00 [INFO]: Incoming request: POST /user 
+2025-07-06 04:42:00 [INFO]: User creation attempt {"username":"wewew","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 04:42:00 [INFO]: User created successfully {"username":"wewew"}
+2025-07-06 04:42:00 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:42:00 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:42:00 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:42:00 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:42:00 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:42:00 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:42:00 [INFO]: Fetching all products without filter 
+2025-07-06 04:42:00 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:42:00 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:42:00 [INFO]: Top products retrieved successfully 
+2025-07-06 04:42:00 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:42:00 [WARN]: Unauthorized: No token provided 
+2025-07-06 04:42:01 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:42:01 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:42:01 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:42:01 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m TZZ6S0VMec9Me75kAAAO 
+2025-07-06 04:42:01 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mTZZ6S0VMec9Me75kAAAO[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:42:01 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:42:01 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:42:01 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:42:02 [INFO]: Top products retrieved successfully 
+2025-07-06 04:42:02 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:42:02 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:42:02 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:42:02 [INFO]: Fetching all products without filter 
+2025-07-06 04:42:02 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:42:02 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:42:02 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:42:02 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:42:02 [INFO]: Fetching all products without filter 
+2025-07-06 04:42:02 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:42:55 [INFO]: Garson call sent for table: test 
+2025-07-06 04:43:03 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:43:03 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:43:03 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:43:04 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m VZ70Go859_Na5fGBAAAQ 
+2025-07-06 04:43:04 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mVZ70Go859_Na5fGBAAAQ[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:43:04 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:43:04 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:43:04 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:43:04 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:43:04 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:43:04 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:43:04 [INFO]: Fetching all products without filter 
+2025-07-06 04:43:04 [INFO]: Top products retrieved successfully 
+2025-07-06 04:43:04 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:43:04 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:43:04 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:43:04 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:43:04 [INFO]: Fetching all products without filter 
+2025-07-06 04:43:04 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:43:05 [INFO]: Garson call sent for table: test 
+2025-07-06 04:43:31 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:43:32 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:43:38 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:43:51 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:44:01 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:44:12 [INFO]: Garson call sent for table: test 
+2025-07-06 04:46:44 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:46:44 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:46:44 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:46:44 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:46:44 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:46:44 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:46:44 [INFO]: Fetching all products without filter 
+2025-07-06 04:46:44 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:46:44 [INFO]: Top products retrieved successfully 
+2025-07-06 04:46:44 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:46:44 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:46:45 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:46:45 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:46:45 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:46:45 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:46:45 [INFO]: Fetching all products without filter 
+2025-07-06 04:46:45 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:47:31 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m Larlw5tI_j6F3d5jAAAS 
+2025-07-06 04:47:31 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mLarlw5tI_j6F3d5jAAAS[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:47:31 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:47:31 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:47:31 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:47:31 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:47:31 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:47:31 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:47:31 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:47:31 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:47:31 [INFO]: Top products retrieved successfully 
+2025-07-06 04:47:31 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:47:31 [INFO]: Fetching all products without filter 
+2025-07-06 04:47:31 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:47:32 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:47:32 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:47:32 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:47:32 [INFO]: Fetching all products without filter 
+2025-07-06 04:47:32 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:47:47 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:47:47 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:47:47 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:47:47 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m qs179G8-XkbHzNSPAAAU 
+2025-07-06 04:47:47 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mqs179G8-XkbHzNSPAAAU[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:47:47 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:47:47 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:47:47 [INFO]: Top products retrieved successfully 
+2025-07-06 04:47:47 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:47:47 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:47:47 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:47:47 [INFO]: Fetching all products without filter 
+2025-07-06 04:47:48 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:47:48 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:47:48 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:47:48 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:47:48 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:47:48 [INFO]: Fetching all products without filter 
+2025-07-06 04:47:48 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:48:00 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:00 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:00 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:48:00 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m j8W1n7Q86SWEXAwgAAAW 
+2025-07-06 04:48:00 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mj8W1n7Q86SWEXAwgAAAW[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:48:00 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:48:00 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:48:00 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:48:00 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:00 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:00 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:48:00 [INFO]: Fetching all products without filter 
+2025-07-06 04:48:00 [INFO]: Top products retrieved successfully 
+2025-07-06 04:48:00 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:48:00 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:00 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:00 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:48:00 [INFO]: Fetching all products without filter 
+2025-07-06 04:48:00 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:48:30 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:30 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:30 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:48:30 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:30 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:30 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:48:30 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m p9-KAvCiJ2qrLVJtAAAY 
+2025-07-06 04:48:30 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mp9-KAvCiJ2qrLVJtAAAY[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:48:30 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:48:30 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:48:30 [INFO]: Top products retrieved successfully 
+2025-07-06 04:48:30 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:30 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:31 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:48:31 [INFO]: Fetching all products without filter 
+2025-07-06 04:48:31 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:48:31 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:48:31 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:31 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:31 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:48:31 [INFO]: Fetching all products without filter 
+2025-07-06 04:48:31 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:48:31 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:48:31 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:48:31 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:48:31 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:31 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:31 [INFO]: Top products retrieved successfully 
+2025-07-06 04:48:31 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:48:31 [INFO]: Fetching all products without filter 
+2025-07-06 04:48:31 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:48:31 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:31 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:31 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:48:31 [INFO]: Fetching all products without filter 
+2025-07-06 04:48:31 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:48:59 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:48:59 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:48:59 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:48:59 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m _bI9PRgT-RjB9ALIAAAa 
+2025-07-06 04:49:00 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m_bI9PRgT-RjB9ALIAAAa[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:49:00 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 04:49:00 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:49:00 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:49:00 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:49:00 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:49:00 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:49:00 [INFO]: Fetching all products without filter 
+2025-07-06 04:49:00 [INFO]: Top products retrieved successfully 
+2025-07-06 04:49:00 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:49:00 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:49:00 [INFO]: Fetching all products without filter 
+2025-07-06 04:49:00 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:49:00 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:49:00 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:50:41 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:50:41 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m dmfW3zD063PjvNctAAAB 
+2025-07-06 04:50:41 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mdmfW3zD063PjvNctAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:50:41 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m jZbBjEfVL9EmGlAEAAAD 
+2025-07-06 04:50:41 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mjZbBjEfVL9EmGlAEAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:50:41 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m c3cbXLyzVDPW8M9zAAAF 
+2025-07-06 04:50:41 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mc3cbXLyzVDPW8M9zAAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:50:48 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:50:48 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m zMeOI8fY8MwedN99AAAC 
+2025-07-06 04:50:48 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m BsgHpcNz4i4OE5VoAAAD 
+2025-07-06 04:50:48 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mzMeOI8fY8MwedN99AAAC[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:50:48 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mBsgHpcNz4i4OE5VoAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:50:49 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m uuD4Eyw-6BKz3HVEAAAF 
+2025-07-06 04:50:49 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34muuD4Eyw-6BKz3HVEAAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:51:03 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:51:03 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m Pq26yHPj4ubjAbaVAAAB 
+2025-07-06 04:51:03 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mPq26yHPj4ubjAbaVAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:51:03 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m IiAzMEpOu5q-1qGWAAAE 
+2025-07-06 04:51:03 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 08J9_KVEOn7f7fLgAAAF 
+2025-07-06 04:51:03 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mIiAzMEpOu5q-1qGWAAAE[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:51:03 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m08J9_KVEOn7f7fLgAAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:51:07 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:52:31 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:52:31 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m -e9ZRCpPDLhTvKRgAAAB 
+2025-07-06 04:52:31 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m-e9ZRCpPDLhTvKRgAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:52:31 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m uzd6xqng4hm9iIgqAAAE 
+2025-07-06 04:52:31 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m ImLaObRUvYLPD_y5AAAF 
+2025-07-06 04:52:31 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34muzd6xqng4hm9iIgqAAAE[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:52:31 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mImLaObRUvYLPD_y5AAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:52:35 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:52:53 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:52:53 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m Vy3wfXqCFKkg6iDtAAAB 
+2025-07-06 04:52:53 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m JIxFuvMiWwq7f00sAAAE 
+2025-07-06 04:52:53 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mVy3wfXqCFKkg6iDtAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:52:53 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mJIxFuvMiWwq7f00sAAAE[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:52:53 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m P5R2QTTFZZd6Mn1BAAAF 
+2025-07-06 04:52:53 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mP5R2QTTFZZd6Mn1BAAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:13 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:53:13 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m yonD3bG3YjwZBUduAAAB 
+2025-07-06 04:53:13 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34myonD3bG3YjwZBUduAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:13 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m H4R_t7v87cQ4YFNcAAAD 
+2025-07-06 04:53:13 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mH4R_t7v87cQ4YFNcAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:13 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m yoYarFEnHPMJYSeJAAAF 
+2025-07-06 04:53:13 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34myoYarFEnHPMJYSeJAAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:18 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:53:18 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m wRbyoNLxinFK600vAAAB 
+2025-07-06 04:53:18 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mwRbyoNLxinFK600vAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:18 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m V7IhRpTQxAcjqhrRAAAE 
+2025-07-06 04:53:18 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mV7IhRpTQxAcjqhrRAAAE[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:18 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m mFtFq6ar-1eciSa8AAAF 
+2025-07-06 04:53:18 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mmFtFq6ar-1eciSa8AAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:20 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:53:21 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m tKf-YspadG6V8SKXAAAB 
+2025-07-06 04:53:21 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mtKf-YspadG6V8SKXAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:21 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m m4j6i5a005XiMOQ0AAAE 
+2025-07-06 04:53:21 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mm4j6i5a005XiMOQ0AAAE[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:21 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m vjtXuRh3KgEb5_33AAAF 
+2025-07-06 04:53:21 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mvjtXuRh3KgEb5_33AAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:53:22 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:53:35 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:53:35 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:53:35 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 04:53:36 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 04:53:36 [INFO]: Request received to get top products for the past week 
+2025-07-06 04:53:36 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 04:53:36 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 04:53:36 [INFO]: Top products retrieved successfully 
+2025-07-06 04:53:36 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 04:53:36 [INFO]: Fetching all products without filter 
+2025-07-06 04:53:36 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 04:54:15 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:55:53 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:55:53 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m J_nHG9qNNV4mRCoEAAAB 
+2025-07-06 04:55:53 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mJ_nHG9qNNV4mRCoEAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:56:13 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:56:14 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m J2G_4ad1YhWabV_5AAAB 
+2025-07-06 04:56:14 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mJ2G_4ad1YhWabV_5AAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:56:20 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:56:22 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m r2aba0Mf24T1gtCIAAAB 
+2025-07-06 04:56:22 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mr2aba0Mf24T1gtCIAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:56:26 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:57:19 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:57:19 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 42Shas-bpZ_45IYaAAAB 
+2025-07-06 04:57:19 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m42Shas-bpZ_45IYaAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:57:23 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:57:27 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:57:28 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m koflM5L2QHOOIgitAAAB 
+2025-07-06 04:57:28 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mkoflM5L2QHOOIgitAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:57:33 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 04:58:53 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:58:53 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m HiPnInEYZy8GiCIVAAAB 
+2025-07-06 04:58:53 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mHiPnInEYZy8GiCIVAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:59:03 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 04:59:06 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m SpXqsnR428AiZieFAAAB 
+2025-07-06 04:59:06 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mSpXqsnR428AiZieFAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 04:59:18 [ERROR]: Error in orderCustomer event: هناك مشكلة في إنشاء الطلب 
+2025-07-06 05:00:03 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 05:00:04 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 0Lc94XWoM6Ukv6WHAAAB 
+2025-07-06 05:00:04 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m0Lc94XWoM6Ukv6WHAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:00:15 [INFO]: New order created for customer: wewew (ID: 686a6108f3c043fb34b13ee9) at table: test 
+2025-07-06 05:00:22 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 05:00:24 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 05:00:25 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 05:00:25 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 05:01:25 [INFO]: Garson call sent for table: test 
+2025-07-06 05:05:40 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 05:05:40 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 05:05:40 [INFO]: Products fetched successfully {}
+2025-07-06 05:05:40 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m qEHA2fd8-pqIB_teAAAD 
+2025-07-06 05:05:40 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mqEHA2fd8-pqIB_teAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:23:28 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 05:23:28 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 05:23:28 [INFO]: Products fetched successfully {}
+2025-07-06 05:23:29 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:29 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:29 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 05:23:29 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 2lGZ1DnrwAqGHVjwAAAF 
+2025-07-06 05:23:29 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m2lGZ1DnrwAqGHVjwAAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:23:29 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 05:23:29 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 05:23:29 [INFO]: Request received to get top products for the past week 
+2025-07-06 05:23:29 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:29 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:29 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:23:29 [INFO]: Fetching all products without filter 
+2025-07-06 05:23:29 [INFO]: Top products retrieved successfully 
+2025-07-06 05:23:29 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:23:29 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:29 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:29 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:23:29 [INFO]: Fetching all products without filter 
+2025-07-06 05:23:29 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:23:40 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:40 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:40 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 05:23:40 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m BqwZ-tVmh7rd1yD1AAAH 
+2025-07-06 05:23:40 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mBqwZ-tVmh7rd1yD1AAAH[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:23:40 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 05:23:40 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 05:23:40 [INFO]: Request received to get top products for the past week 
+2025-07-06 05:23:40 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:40 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:40 [INFO]: Top products retrieved successfully 
+2025-07-06 05:23:40 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:23:40 [INFO]: Fetching all products without filter 
+2025-07-06 05:23:40 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:23:40 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:40 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:40 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:23:40 [INFO]: Fetching all products without filter 
+2025-07-06 05:23:40 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:23:44 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:44 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:44 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 05:23:44 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 6dXJi-M0Zb6U73cdAAAJ 
+2025-07-06 05:23:44 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m6dXJi-M0Zb6U73cdAAAJ[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:23:44 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 05:23:44 [INFO]: Request received to get top products for the past week 
+2025-07-06 05:23:44 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:44 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:44 [INFO]: Top products retrieved successfully 
+2025-07-06 05:23:44 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:23:44 [INFO]: Fetching all products without filter 
+2025-07-06 05:23:44 [INFO]: Fetching orders for customer ID: 686a6108f3c043fb34b13ee9 
+2025-07-06 05:23:44 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:23:44 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:23:44 [INFO]: Fetching user by ID {"userId":"686a6108f3c043fb34b13ee9"}
+2025-07-06 05:23:44 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:23:44 [INFO]: Fetching all products without filter 
+2025-07-06 05:23:44 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:23:48 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m F0uAb973n3LBQXw6AAAL 
+2025-07-06 05:23:48 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mF0uAb973n3LBQXw6AAAL[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:31:15 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 05:31:15 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m EvujYk7UFUwZ9eIqAAAB 
+2025-07-06 05:31:15 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mEvujYk7UFUwZ9eIqAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:31:18 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m NkKVfmteBWYU5ttxAAAD 
+2025-07-06 05:31:18 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mNkKVfmteBWYU5ttxAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:34:13 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 05:34:14 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m vqWoPYQXmwcVTQ3lAAAB 
+2025-07-06 05:34:14 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mvqWoPYQXmwcVTQ3lAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:34:17 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m X7qvKUqhGa8E-Y7aAAAD 
+2025-07-06 05:34:17 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mX7qvKUqhGa8E-Y7aAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:34:38 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 05:34:38 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 05:34:38 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 05:34:38 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 05:34:38 [INFO]: Products fetched successfully {}
+2025-07-06 05:34:38 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 5RRNPYDHWI5a8zdYAAAF 
+2025-07-06 05:34:38 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m5RRNPYDHWI5a8zdYAAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:34:42 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 05:35:05 [INFO]: Incoming request: GET /customerLogin/test 
+2025-07-06 05:35:05 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 05:35:06 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 05:35:06 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 05:35:06 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m _rvCJrMS0x79-K6IAAAH 
+2025-07-06 05:35:06 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m_rvCJrMS0x79-K6IAAAH[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:36:23 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 05:36:23 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m iA5yu5dHM8P0JJXpAAAB 
+2025-07-06 05:36:23 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34miA5yu5dHM8P0JJXpAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:36:24 [INFO]: Incoming request: GET /customerLogin/test 
+2025-07-06 05:36:25 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 05:36:25 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 05:36:25 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 05:36:26 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m GYmPPITyxg3dyG5MAAAD 
+2025-07-06 05:36:26 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mGYmPPITyxg3dyG5MAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:37:15 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 05:37:16 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m r7heVPoDfusVnsY7AAAB 
+2025-07-06 05:37:16 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mr7heVPoDfusVnsY7AAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:37:16 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m bvMdMqMjzWBKIbUkAAAD 
+2025-07-06 05:37:16 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mbvMdMqMjzWBKIbUkAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:37:21 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 05:37:21 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m GNd8_oMWGV3pWOV9AAAB 
+2025-07-06 05:37:21 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mGNd8_oMWGV3pWOV9AAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:37:23 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m ovwIoWfJEsXbTM5ZAAAD 
+2025-07-06 05:37:23 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34movwIoWfJEsXbTM5ZAAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:37:23 [INFO]: Incoming request: POST /user 
+2025-07-06 05:37:23 [INFO]: User creation attempt {"username":"uyuh","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 05:37:23 [INFO]: User created successfully {"username":"uyuh"}
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /menu 
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:37:24 [INFO]: Fetching user by ID {"userId":"686a6e0363d75742ffaa312b"}
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 05:37:24 [INFO]: Request received to get top products for the past week 
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:37:24 [INFO]: Fetching user by ID {"userId":"686a6e0363d75742ffaa312b"}
+2025-07-06 05:37:24 [INFO]: Top products retrieved successfully 
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:37:24 [INFO]: Fetching all products without filter 
+2025-07-06 05:37:24 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 05:37:24 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 05:37:25 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m hZwX5DRg4elg1BzjAAAF 
+2025-07-06 05:37:25 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:37:25 [INFO]: Fetching user by ID {"userId":"686a6e0363d75742ffaa312b"}
+2025-07-06 05:37:25 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 05:37:25 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mhZwX5DRg4elg1BzjAAAF[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:37:25 [INFO]: Fetching orders for customer ID: 686a6e0363d75742ffaa312b 
+2025-07-06 05:37:25 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 05:37:25 [INFO]: Request received to get top products for the past week 
+2025-07-06 05:37:25 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:37:25 [INFO]: Fetching all products without filter 
+2025-07-06 05:37:25 [INFO]: Top products retrieved successfully 
+2025-07-06 05:37:25 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:37:25 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:37:25 [INFO]: Fetching user by ID {"userId":"686a6e0363d75742ffaa312b"}
+2025-07-06 05:37:25 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:37:25 [INFO]: Fetching user by ID {"userId":"686a6e0363d75742ffaa312b"}
+2025-07-06 05:37:25 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:37:25 [INFO]: Fetching all products without filter 
+2025-07-06 05:37:25 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:38:10 [INFO]: New order created for customer: uyuh (ID: 686a6e0363d75742ffaa312b) at table: test 
+2025-07-06 05:38:12 [INFO]: Fetching orders for customer ID: 686a6e0363d75742ffaa312b 
+2025-07-06 05:38:12 [INFO]: Fetching orders for customer ID: 686a6e0363d75742ffaa312b 
+2025-07-06 05:40:29 [INFO]: Incoming request: GET /menu 
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:40:30 [INFO]: Fetching user by ID {"userId":"686a6e0363d75742ffaa312b"}
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 05:40:30 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m U0HoRj5O0up1HoD1AAAH 
+2025-07-06 05:40:30 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mU0HoRj5O0up1HoD1AAAH[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 05:40:30 [INFO]: Request received to get top products for the past week 
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:40:30 [INFO]: Fetching user by ID {"userId":"686a6e0363d75742ffaa312b"}
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:40:30 [INFO]: Fetching all products without filter 
+2025-07-06 05:40:30 [INFO]: Fetching orders for customer ID: 686a6e0363d75742ffaa312b 
+2025-07-06 05:40:30 [INFO]: Top products retrieved successfully 
+2025-07-06 05:40:30 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 05:40:30 [INFO]: Fetching all products without filter 
+2025-07-06 05:40:30 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 05:40:30 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 05:40:30 [INFO]: Fetching user by ID {"userId":"686a6e0363d75742ffaa312b"}
+2025-07-06 22:00:36 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m yi_QShLgQ7M9B03xAAAJ 
+2025-07-06 22:00:40 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m YgIULssAZ2hNKHqiAAAL 
+2025-07-06 22:00:40 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m pBwGe1TNanYZKSH1AAAN 
+2025-07-06 22:09:00 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 22:09:00 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m coAZmaEVCddgswW-AAAB 
+2025-07-06 22:09:00 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 0lBQnEXYvm2SKDn4AAAD 
+2025-07-06 22:09:02 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m FZoUPKWda0Ce2TUeAAAF 
+2025-07-06 22:09:43 [INFO]: Incoming request: GET /menu 
+2025-07-06 22:09:44 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:09:44 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:09:44 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:09:44 [WARN]: No token provided. 
+2025-07-06 22:09:44 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 22:09:44 [WARN]: No token provided. 
+2025-07-06 22:09:44 [INFO]: Incoming request: GET /product?page=1&limit=5 
+2025-07-06 22:09:44 [INFO]: Fetching all products with options {"options":{"page":1,"limit":5,"sort":null,"search":null}}
+2025-07-06 22:09:44 [INFO]: Products fetched successfully {}
+2025-07-06 22:10:21 [INFO]: Incoming request: GET /customerLogin/test 
+2025-07-06 22:10:21 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 22:10:22 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:10:22 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:10:22 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m dFlKLBSs8kjRtsPdAAAI 
+2025-07-06 22:10:26 [INFO]: Incoming request: POST /user 
+2025-07-06 22:10:26 [INFO]: User creation attempt {"username":"uyuh","tableNumber":"test","phoneNumber":"0938889107"}
+2025-07-06 22:10:26 [INFO]: User created successfully {"username":"uyuh"}
+2025-07-06 22:10:26 [INFO]: Incoming request: GET /menu 
+2025-07-06 22:10:26 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:10:27 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 22:10:27 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m c_bqYkGDIOy-Hc5HAAAK 
+2025-07-06 22:10:27 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mc_bqYkGDIOy-Hc5HAAAK[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 22:10:27 [INFO]: Request received to get top products for the past week 
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:10:27 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:10:27 [INFO]: Top products retrieved successfully 
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:10:27 [INFO]: Fetching all products without filter 
+2025-07-06 22:10:27 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 22:10:27 [INFO]: Fetching orders for customer ID: 686b56c2dbf8a0ff7a41ce3a 
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:10:27 [INFO]: Fetching all products without filter 
+2025-07-06 22:10:27 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:10:27 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:10:27 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 22:11:24 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 22:11:26 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m R2Vb8TaHSSSKx9JxAAAB 
+2025-07-06 22:11:26 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mR2Vb8TaHSSSKx9JxAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 22:11:34 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 22:11:34 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m J3PGyhVK3-2IspLiAAAB 
+2025-07-06 22:11:34 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mJ3PGyhVK3-2IspLiAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 22:11:41 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 22:11:41 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m kH8N8FlUTTQEQ1BuAAAB 
+2025-07-06 22:11:41 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mkH8N8FlUTTQEQ1BuAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 22:11:50 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 22:11:52 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m IRP_1Ybe2lVlONviAAAB 
+2025-07-06 22:11:52 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mIRP_1Ybe2lVlONviAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 22:11:56 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 22:11:56 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m PLO_B9SsNUFbV-VHAAAB 
+2025-07-06 22:11:56 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mPLO_B9SsNUFbV-VHAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 22:12:13 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 22:12:13 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m DiPzgiIDJQyrUnKAAAAB 
+2025-07-06 22:12:13 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mDiPzgiIDJQyrUnKAAAAB[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 22:12:24 [INFO]: Incoming request: GET /menu 
+2025-07-06 22:12:24 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:12:25 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 22:12:25 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m ESxb2BPBWdPEPJT_AAAD 
+2025-07-06 22:12:25 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mESxb2BPBWdPEPJT_AAAD[39m 
+            [33mPhone Number:[39m [34m0938889107[39m 
+2025-07-06 22:12:25 [INFO]: Fetching orders for customer ID: 686b56c2dbf8a0ff7a41ce3a 
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 22:12:25 [INFO]: Request received to get top products for the past week 
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:12:25 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:12:25 [INFO]: Top products retrieved successfully 
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:12:25 [INFO]: Fetching all products without filter 
+2025-07-06 22:12:25 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:12:25 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:12:25 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:12:26 [INFO]: Fetching all products without filter 
+2025-07-06 22:12:26 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 22:16:19 [INFO]: [44mServer is running on http://192.168.1.200:5009[49m 
+2025-07-06 22:16:23 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m DjgNLDfOC6K2sMCkAAAB 
+2025-07-06 22:16:23 [ERROR]: [31mUser not found: 686b56c2dbf8a0ff7a41ce3a[39m 
+2025-07-06 22:17:50 [INFO]: Incoming request: GET /menu 
+2025-07-06 22:17:50 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 22:17:51 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:17:51 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:17:51 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m jC62NGlaT0kudNTlAAAD 
+2025-07-06 22:17:51 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:17:51 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:17:51 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 22:17:51 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 22:17:51 [INFO]: Request received to get top products for the past week 
+2025-07-06 22:17:51 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:17:51 [INFO]: Fetching all products without filter 
+2025-07-06 22:17:51 [ERROR]: [31mUser not found: 686b56c2dbf8a0ff7a41ce3a[39m 
+2025-07-06 22:17:51 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:17:51 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:17:51 [INFO]: Top products retrieved successfully 
+2025-07-06 22:17:52 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:17:52 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:17:53 [INFO]: Products fetched successfully {"productsCount":0}
+2025-07-06 22:17:53 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:17:53 [INFO]: Fetching all products without filter 
+2025-07-06 22:17:53 [INFO]: Products fetched successfully {"productsCount":0}
+2025-07-06 22:17:53 [INFO]: Incoming request: GET /menu 
+2025-07-06 22:17:54 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 22:17:54 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:17:54 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:17:54 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 3D0oCEwmlcO6coA7AAAF 
+2025-07-06 22:17:54 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:17:54 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:17:54 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 22:17:54 [INFO]: Incoming request: GET /order/top-products/ffff 
+2025-07-06 22:17:54 [INFO]: Request received to get top products for the past week 
+2025-07-06 22:17:54 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:17:54 [INFO]: Fetching all products without filter 
+2025-07-06 22:17:54 [ERROR]: [31mUser not found: 686b56c2dbf8a0ff7a41ce3a[39m 
+2025-07-06 22:17:55 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:17:55 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:17:55 [INFO]: Top products retrieved successfully 
+2025-07-06 22:17:55 [INFO]: Products fetched successfully {"productsCount":0}
+2025-07-06 22:17:55 [INFO]: Incoming request: GET /user/getUser 
+2025-07-06 22:17:55 [INFO]: Fetching user by ID {"userId":"686b56c2dbf8a0ff7a41ce3a"}
+2025-07-06 22:17:55 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:17:55 [INFO]: Fetching all products without filter 
+2025-07-06 22:17:55 [INFO]: Products fetched successfully {"productsCount":0}
+2025-07-06 22:19:24 [INFO]: Incoming request: POST /user/admin/signupadmin2024 
+2025-07-06 22:19:24 [INFO]: Admin signup attempt {"email":"admin@gmail.com","role":"***"}
+2025-07-06 22:19:24 [INFO]: Admin signed up successfully {"email":"admin@gmail.com"}
+2025-07-06 22:19:56 [INFO]: Incoming request: GET /login/adminLogin 
+2025-07-06 22:19:57 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 22:19:57 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:19:57 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:19:57 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m JdcA-nZbmYN287DWAAAH 
+2025-07-06 22:19:57 [ERROR]: [31mUser not found: 686b56c2dbf8a0ff7a41ce3a[39m 
+2025-07-06 22:20:16 [INFO]: Incoming request: POST /user/admin/login 
+2025-07-06 22:20:16 [INFO]: Login attempt {"email":"admin@gmail.com","password":"123456789"}
+2025-07-06 22:20:16 [INFO]: Login successful {"email":"admin@gmail.com"}
+2025-07-06 22:20:16 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 22:20:16 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:20:16 [INFO]: Fetching all products without filter 
+2025-07-06 22:20:16 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m AVgRF157wDEcvWE5AAAJ 
+2025-07-06 22:20:16 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 485nppl2iiW2u2OXAAAL 
+2025-07-06 22:20:17 [INFO]: Products fetched successfully {"productsCount":0}
+2025-07-06 22:20:17 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mAVgRF157wDEcvWE5AAAJ[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:20:17 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m485nppl2iiW2u2OXAAAL[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:20:42 [INFO]: Incoming request: GET /order/api/statistics?year=2025 
+2025-07-06 22:20:42 [INFO]: Received request for statistics. Year: 2025, Month: undefined 
+2025-07-06 22:20:42 [INFO]: Filter applied: {"createdAt":{"$gte":"2025-01-01T08:00:00.000Z","$lt":"2026-01-01T08:00:00.000Z"}}
+2025-07-06 22:20:43 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m NVqL_U_C_RJeGsitAAAN 
+2025-07-06 22:20:43 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:20:43 [INFO]: Fetching all products without filter 
+2025-07-06 22:20:43 [INFO]: Products fetched successfully {"productsCount":0}
+2025-07-06 22:20:43 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mNVqL_U_C_RJeGsitAAAN[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:20:44 [INFO]: Statistics fetched successfully. 
+2025-07-06 22:20:44 [INFO]: Incoming request: GET /order/api/statistics?year=2025 
+2025-07-06 22:20:44 [INFO]: Received request for statistics. Year: 2025, Month: undefined 
+2025-07-06 22:20:44 [INFO]: Filter applied: {"createdAt":{"$gte":"2025-01-01T08:00:00.000Z","$lt":"2026-01-01T08:00:00.000Z"}}
+2025-07-06 22:20:47 [INFO]: Statistics fetched successfully. 
+2025-07-06 22:20:52 [INFO]: Incoming request: GET /ratings 
+2025-07-06 22:20:52 [INFO]: Fetching all ratings 
+2025-07-06 22:20:52 [WARN]: No ratings found 
+2025-07-06 22:20:53 [INFO]: Incoming request: GET /user 
+2025-07-06 22:20:53 [INFO]: Fetching all users 
+2025-07-06 22:20:56 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m ozT_z__ZY82rAdczAAAP 
+2025-07-06 22:20:56 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:20:56 [INFO]: Fetching all products without filter 
+2025-07-06 22:20:56 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mozT_z__ZY82rAdczAAAP[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:20:57 [INFO]: Products fetched successfully {"productsCount":0}
+2025-07-06 22:20:57 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m GgJvDgjxG8I6Bz6BAAAR 
+2025-07-06 22:20:57 [INFO]: Incoming request: GET /order?search[status]=pending 
+2025-07-06 22:20:57 [INFO]: Request received at getAllOrders: {"search":{"status":"pending"}} 
+2025-07-06 22:20:57 [INFO]: Options for fetching orders: {"page":null,"limit":null,"search":{"status":"pending"},"paginate":false} 
+2025-07-06 22:20:57 [INFO]: Incoming request: GET /printer-settings 
+2025-07-06 22:20:57 [INFO]: Fetching printer setting 
+2025-07-06 22:20:57 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mGgJvDgjxG8I6Bz6BAAAR[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:20:57 [WARN]: No printer setting found 
+2025-07-06 22:20:57 [INFO]: Fetched orders successfully: undefined orders retrieved 
+2025-07-06 22:21:01 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:21:01 [INFO]: Fetching all products without filter 
+2025-07-06 22:21:01 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m VTKrYE32gmtIoaYAAAAT 
+2025-07-06 22:21:01 [INFO]: Products fetched successfully {"productsCount":0}
+2025-07-06 22:21:02 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mVTKrYE32gmtIoaYAAAAT[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:29:24 [INFO]: Incoming request: GET /admin 
+2025-07-06 22:29:24 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 22:29:24 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:29:24 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:29:24 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 22:29:25 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m GzHiu4JL-Tw9_6qKAAAV 
+2025-07-06 22:29:25 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m b-_VtGPFS8L91v1rAAAY 
+2025-07-06 22:29:25 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m dTdjiY7cQE-0afzOAAAZ 
+2025-07-06 22:29:25 [INFO]: Incoming request: GET /product/withoutfilter/allProducts 
+2025-07-06 22:29:25 [INFO]: Fetching all products without filter 
+2025-07-06 22:29:26 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mGzHiu4JL-Tw9_6qKAAAV[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:29:26 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mb-_VtGPFS8L91v1rAAAY[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:29:27 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mdTdjiY7cQE-0afzOAAAZ[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:29:27 [INFO]: Products fetched successfully {"productsCount":25}
+2025-07-06 22:30:54 [INFO]: Incoming request: GET /order?search[status]=pending 
+2025-07-06 22:30:54 [INFO]: Request received at getAllOrders: {"search":{"status":"pending"}} 
+2025-07-06 22:30:54 [INFO]: Options for fetching orders: {"page":null,"limit":null,"search":{"status":"pending"},"paginate":false} 
+2025-07-06 22:30:54 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m R_Z2TB8743s314CuAAAb 
+2025-07-06 22:30:54 [INFO]: Incoming request: GET /printer-settings 
+2025-07-06 22:30:54 [INFO]: Fetching printer setting 
+2025-07-06 22:30:54 [WARN]: No printer setting found 
+2025-07-06 22:30:54 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mR_Z2TB8743s314CuAAAb[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:30:55 [INFO]: Fetched orders successfully: undefined orders retrieved 
+2025-07-06 22:30:56 [INFO]: Incoming request: GET /admin/order 
+2025-07-06 22:30:56 [INFO]: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json 
+2025-07-06 22:30:57 [INFO]: Incoming request: GET /locales/en-US/translation.json 
+2025-07-06 22:30:57 [INFO]: Incoming request: GET /locales/en/translation.json 
+2025-07-06 22:30:57 [INFO]: Incoming request: GET /user/user-profile 
+2025-07-06 22:30:57 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m M4t6KIImLrV9Rm0BAAAd 
+2025-07-06 22:30:57 [INFO]: Incoming request: GET /order?search[status]=pending 
+2025-07-06 22:30:57 [INFO]: Request received at getAllOrders: {"search":{"status":"pending"}} 
+2025-07-06 22:30:57 [INFO]: Options for fetching orders: {"page":null,"limit":null,"search":{"status":"pending"},"paginate":false} 
+2025-07-06 22:30:57 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m 2YN0dNOkcHP_n_z4AAAf 
+2025-07-06 22:30:57 [INFO]: Incoming request: GET /printer-settings 
+2025-07-06 22:30:57 [INFO]: Fetching printer setting 
+2025-07-06 22:30:57 [INFO]: [31mUser disconnected[39m [33mSocket ID:[39m KO2tukjnoKxf-855AAAh 
+2025-07-06 22:30:58 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mM4t6KIImLrV9Rm0BAAAd[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:30:58 [WARN]: No printer setting found 
+2025-07-06 22:30:58 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34m2YN0dNOkcHP_n_z4AAAf[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:30:58 [INFO]: Fetched orders successfully: undefined orders retrieved 
+2025-07-06 22:30:59 [INFO]: [32mUser Connected[39m 
+            [33mSocket ID:[39m [34mKO2tukjnoKxf-855AAAh[39m 
+            [33mEmail:[39m [34madmin[39m 
+2025-07-06 22:31:13 [INFO]: statusFromAdmin event triggered with orderId: ord-293e5e6c, status: approved 

@@ -1,0 +1,66 @@
+{
+  "name": "resturanto",
+  "version": "1.0.0",
+  "main": "server.js",
+  "bin": "server.js",
+  "scripts": {
+    "start": "nodemon server.js ",
+    "dev": "node server.js",
+    "test": "jest",
+    "build": "NODE_ENV=prod pkg ."
+  },
+  "dependencies": {
+    "backend": "file:",
+    "bcryptjs": "^2.4.3",
+    "chalk": "^3.0.0",
+    "cookie": "^1.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.19.28",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "mongoose": "^7.0.0",
+    "multer": "^1.4.5-lts.1",
+    "node-thermal-printer": "^4.4.3",
+    "openurl": "^1.1.1",
+    "pkg": "5.8.1",
+    "qrcode": "^1.5.4",
+    "rcedit": "^4.0.1",
+    "resturanto": "file:",
+    "return": "file:",
+    "socket.io": "^4.7.5",
+    "strip-ansi": "^7.1.0",
+    "uuid": "^11.0.3",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "xss-clean": "^0.1.4"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "pkg": {
+    "scripts": [],
+    "assets": [
+      "index.html",
+      "build/**"
+    ],
+    "targets": [
+      "node18-win-x64"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "socket.io-client": "^4.8.1",
+    "supertest": "^7.0.0"
+  }
+}
